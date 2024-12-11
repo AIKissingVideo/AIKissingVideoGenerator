@@ -45,7 +45,7 @@ The AI Kissing Video Generator is built with advanced machine learning models tr
 We value your feedback! If you have any questions or suggestions, please reach out to us or create an issue in this repository.
 
 - Website: [aikissingvideo.net](https://aikissingvideo.net)
-- Email: support@aikissingvideo.net
+- Email: thefirstname.thelastname.help@gmail.com
 
 ## Contribution
 
